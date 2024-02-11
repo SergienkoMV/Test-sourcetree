@@ -6,4 +6,4 @@ I stady in the Netology
 
 ## New text in the file
 
-12345
+123456
